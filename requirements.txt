@@ -1,0 +1,25 @@
+Flask
+Flask_Assets
+Jinja2
+joblib
+matplotlib
+networkx
+numpy
+pandas
+Pillow
+pynndescent
+pyvis
+rdkit
+scikit-learn
+scipy
+setuptools
+statsmodels
+torch
+tqdm
+faerun 
+umap-learn
+python-dotenv
+openai
+cython
+quitefastmst
+fa2 --no-binary=fa2

@@ -1,0 +1,9 @@
+__pycache__
+.env
+/.vscode/
+/data/*
+/tmap/*
+/mst/*
+!/data/rxnclass2name.json
+!/tmap/tmap.js
+!/mst/mst.js
