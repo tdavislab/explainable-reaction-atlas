@@ -59,8 +59,8 @@ python tmap_generator.py input.csv
 
 This will:
 
-* Generate **TMAP coordinates**
-* Save output to a default CSV file.
+* Generate the **TMAP** as a JavaScript file (`.js`), which can be loaded into the web application. See the application README for setup and usage instructions.
+* Generate a file named `scatterMeta.js`, which contains metadata and color map configuration used by the web application. If the metadata or color maps are changed, replace the existing `scatterMeta.js` file at `./app/static.js/scatterMeta.js` with the newly generated file.
 
 ---
 
